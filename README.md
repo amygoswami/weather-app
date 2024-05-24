@@ -8,7 +8,7 @@ The Weather App is a React-based application that provides real-time weather inf
 
 #### How to Use
 1. **Open the App**: Navigate to [Weather App](https://amygoswami.github.io/weather-app/).
-2. **Search for a City**: Enter the name of the city in the search bar.
+2. **Search for a City**: Enter the name of the city in the search bar. Press the 'Enter' key on your keyboard to search.
 3. **View Weather Information**: See real-time weather details for the searched city.
 
 #### Technologies Used
